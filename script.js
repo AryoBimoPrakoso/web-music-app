@@ -22,6 +22,12 @@ document.addEventListener('DOMContentLoaded', function() {
             cover: 'assets/cover/magnolia.png'
         },
         {
+            path: 'assets/Jeff Buckley & Elizabeth Fraser - All Flowers In Time Bend Towards The Sun.mp3',
+            title: 'All Flowers in Time Bend Towards the Sun',
+            artist: 'Jeff Buckley & Liz Frazer',
+            cover: 'assets/cover/Liz Fraser and Jeff Buckley.jpg'
+        },
+        {
             path: 'assets/I Will (Remastered 2009).mp3',
             title: 'I Will',
             artist: 'The Beatles',
