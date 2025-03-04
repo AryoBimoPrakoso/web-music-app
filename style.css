@@ -187,7 +187,7 @@ body {
 @media screen and (max-width: 768px) {
     .music-player {
         flex-direction: column;
-        height: auto;
+        height: 96vh;
         padding: 10px;
         margin-top: 32px;
         margin-bottom: 32px;
